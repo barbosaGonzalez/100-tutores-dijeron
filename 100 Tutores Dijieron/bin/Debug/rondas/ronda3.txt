@@ -1,0 +1,6 @@
+Establecimiento de comida populares en Colima
+Little Ceasars,30
+Burger King,28
+Pizza Hot,25
+KFC,10
+Jashi,7

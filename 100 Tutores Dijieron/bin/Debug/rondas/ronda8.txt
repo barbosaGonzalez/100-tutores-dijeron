@@ -1,0 +1,6 @@
+Lo primero que haces cuando llegas de la escuela
+Comer,30
+Jugar,26
+Ducharme,18
+Dormir,15
+Hacer la tarea,11

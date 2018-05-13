@@ -1,0 +1,6 @@
+Lo primero que piensas al escuchar la palabra dinero
+Compras,45
+Deudas,30
+Fiestas,15
+Trabajo,10
+,0

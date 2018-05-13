@@ -1,0 +1,6 @@
+Menciona la fruta más comprada entre la gente
+Manzana,35
+Naranja,20
+Fresa,19
+Plátano,15
+Uvas,11

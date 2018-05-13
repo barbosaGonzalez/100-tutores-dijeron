@@ -1,0 +1,20 @@
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\bin\Debug\100 Tutores Dijieron.exe.config
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\bin\Debug\100 Tutores Dijieron.exe
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\bin\Debug\100 Tutores Dijieron.pdb
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\100 Tutores Dijieron.csprojResolveAssemblyReference.cache
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\_100_Tutores_Dijieron.Form1.resources
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\_100_Tutores_Dijieron.Properties.Resources.resources
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\100 Tutores Dijieron.csproj.GenerateResource.Cache
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\100 Tutores Dijieron.exe
+c:\users\edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\100 Tutores Dijieron.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\_100_Tutores_Dijieron.frmCreditos.resources
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\bin\Debug\100 Tutores Dijieron.exe.config
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\100 Tutores Dijieron.exe
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\100 Tutores Dijieron.pdb
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\bin\Debug\100 Tutores Dijieron.exe
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\bin\Debug\100 Tutores Dijieron.pdb
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\100 Tutores Dijieron.csprojResolveAssemblyReference.cache
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\_100_Tutores_Dijieron.Form1.resources
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\_100_Tutores_Dijieron.frmCreditos.resources
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\_100_Tutores_Dijieron.Properties.Resources.resources
+C:\Users\Neri\Dropbox\Projectos Visual C# 2012\100 Tutores Dijieron\100 Tutores Dijieron\obj\Debug\100 Tutores Dijieron.csproj.GenerateResource.Cache
